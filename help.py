@@ -35,7 +35,7 @@ class Help:
         f_lbl.place(x=0,y=170,width=1530,height=610)
 
          # Developer Ingo
-        dep_label=Label(f_lbl,text="Email: sandeep.kumar@cdac.in",font=("times new roman",24,"bold"),fg="blue", bg="white")
+        dep_label=Label(f_lbl,text="Email: sandeepkmr.cse@gmail.com",font=("times new roman",24,"bold"),fg="blue", bg="white")
         dep_label.place(x=600,y=150)
 
 
