@@ -44,10 +44,10 @@ class Developer:
         dep_label=Label(main_frame,text="Sandeep Kumar",font=("times new roman",12,"bold"),fg="blue", bg="white")
         dep_label.place(x=0,y=5)
 
-        dep_label=Label(main_frame,text="Project Engineer",font=("times new roman",12,"bold"),fg="blue", bg="white")
+        dep_label=Label(main_frame,text="Software Engineer",font=("times new roman",12,"bold"),fg="blue", bg="white")
         dep_label.place(x=0,y=40)
 
-        dep_label=Label(main_frame,text="C-DAC Kolkata",font=("times new roman",12,"bold"),fg="blue", bg="white")
+        dep_label=Label(main_frame,text="Freelancer",font=("times new roman",12,"bold"),fg="blue", bg="white")
         dep_label.place(x=0,y=80)
 
         dep_label=Label(main_frame,text="I am full stack developer",font=("times new roman",12,"bold"),fg="blue", bg="white")
