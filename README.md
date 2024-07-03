@@ -30,5 +30,5 @@ Tkinter GUI & MySQL Database.
 
 8.      Attendance Report (CSV/Excel file & MySQL database)
    
-# Advance Face Recognition
+# Face Recognition
 ![Face_recognition](https://github.com/sandeepkmr088/face_recognition/assets/20681021/5dc7a3c4-343f-493e-b5ba-cade4c253e68)
