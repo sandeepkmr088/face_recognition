@@ -29,3 +29,5 @@ Tkinter GUI & MySQL Database.
 7.      Face Detection uses the train data set to detect the face and mark their attendance.
 
 8.      Attendance Report (CSV/Excel file & MySQL database)
+
+![Face_recognition](https://github.com/sandeepkmr088/face_recognition/assets/20681021/5dc7a3c4-343f-493e-b5ba-cade4c253e68)
