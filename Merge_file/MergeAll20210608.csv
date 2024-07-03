@@ -1,0 +1,8 @@
+StudentId,Name,Roll,Time,Date,Status
+1,Sandeep Kumar,1001,22:00:06,03/06/2021,IN-Time
+1,Sandeep Kumar,1001,12:07:26,04/06/2021,IN-Time
+1,Sandeep Kumar,1001,12:54:18,05/06/2021,IN-Time
+1,Sandeep Kumar,1001,19:46:12,2021-06-07,IN-Time
+1,Sandeep Kumar,1001,14:54:05,2021-06-08,IN-Time
+1,Sandeep Kumar,1001,21:43:30,2021-06-07,OUT-Time
+1,Sandeep Kumar,1001,14:55:39,2021-06-08,OUT-Time

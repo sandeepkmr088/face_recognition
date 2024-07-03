@@ -1,0 +1,18 @@
+When Install python on window 10 then go tick mark the ADD PATH then click on customise installation.
+When ever you want install any package then pls run cmd as administrator.
+pip install opencv-python
+pip install tk
+udo apt-get install python3-tkinter
+udo apt-get install python3-pil python3-pil.imagetk
+pip install Pillow
+pip install face-recognition
+Install Mysql and Mysql-Workbench
+1. https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-20-04
+2.https://linuxhint.com/installing_mysql_workbench_ubuntu/#:~:text=Installation%20of%20MySQL%20Workbench%20on,MySQL%20workbench%20using%20Deb%20packages
+CREATE USER 'sandy'@'localhost' IDENTIFIED BY 'root@123';
+username =sandy
+password=root@123
+pip install mysql-connector-python
+pip install opencv-contrib-python
+pip install --upgrade pip
+pip install -U numpy

@@ -1,0 +1,9 @@
+sno,studentId,name,roll,in_time,out_time,date,total_time,status,leave_applied
+1,1,Sandeep Kumar,1001,09:06:02,18:05:39,2021-06-04,08:59:37,Present,Null
+2,1,Sandeep Kumar,1001,08:06:19,19:55:39,2021-06-05,11:49:20,Present,Null
+3,1,Sandeep Kumar,1001,09:23:12,18:35:23,2021-06-06,09:12:11,Present,Null
+4,1,Sandeep Kumar,1001,19:46:12,21:43:30,2021-06-07,01:57:18,Absent,
+5,1,Sandeep Kumar,1001,09:54:05,14:55:39,2021-06-08,05:01:34,Absent,Null
+213,1,Sandeep Kumar,1001,09:32:32,09:17:46,2021-06-18,-00:14:46,Absent,Null
+214,1,Sandeep Kumar,1001,08:56:53,21:12:13,2021-06-19,12:15:20,Present,Null
+215,1,Sandeep Kumar,1001,10:37:09,21:48:11,2021-06-25,11:11:02,Present,Null
