@@ -1,3 +1,6 @@
+# Advance Face Recognition Employee/Students Attendance System Project in Python OpenCV with
+Tkinter GUI & MySQL Database. 
+
 # Technology Used : Python 3.7, CV2, Database is MySQL
 ## The Below Algorithm for Face Detection has been used
 
