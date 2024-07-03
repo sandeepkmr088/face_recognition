@@ -32,3 +32,6 @@ Tkinter GUI & MySQL Database.
    
 # Face Recognition
 ![Face_recognition](https://github.com/sandeepkmr088/face_recognition/assets/20681021/5dc7a3c4-343f-493e-b5ba-cade4c253e68)
+
+## Registration
+![registeration](https://github.com/sandeepkmr088/face_recognition/assets/20681021/7c0cd04f-e254-4c49-b11f-bcee875e061e)
