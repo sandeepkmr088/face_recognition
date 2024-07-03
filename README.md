@@ -1,5 +1,5 @@
-##Technology Used : Python 3.7, CV2, Database is MySQL
-#The Below Algorithm for Face Detection has been used
+# Technology Used : Python 3.7, CV2, Database is MySQL
+## The Below Algorithm for Face Detection has been used
 
 1.     Haarcascade Opencv (Object Detection)
 
@@ -9,7 +9,7 @@
 
 4.      LBPH OpenCV (Face Recognition)
 
-#Features of Project:
+## Features of Project:
 
 1.      Login Security System (Username & Password)
 
